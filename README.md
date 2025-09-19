@@ -1,12 +1,13 @@
-<!-- ======== WAVE HEADER (like your reference) ======== -->
-<p align="center">
+<!-- ======== WAVE HEADER (RED) ======== -->
+<div align="center">
+  <!-- Capsule Render banner (works on GitHub) -->
   <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=E11D48&fontColor=ffffff&text=SALMAN%20KHAN&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20%26%20DL%20%E2%80%A2%20NLP%20%E2%80%A2%20CV%20%E2%80%A2%20RAG&descAlign=50&descAlignY=70&animation=fadeIn"
     alt="SALMAN KHAN red wave header"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=E11D48&fontColor=ffffff&text=SALMAN%20KHAN&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20•%20ML%20%26%20DL%20•%20NLP%20•%20CV%20•%20RAG&descAlign=50&descAlignY=70"
   />
-</p>
+</div>
 
-<!-- ======== BADGES (kept simple to avoid errors) ======== -->
+<!-- ======== BADGES (RED) ======== -->
 <p align="center">
   <a href="https://github.com/S4lmankhan" title="Profile views">
     <img src="https://komarev.com/ghpvc/?username=S4lmankhan&label=PROFILE%20VIEWS&color=E11D48&style=for-the-badge" alt="Profile views"/>
@@ -19,25 +20,32 @@
   </a>
 </p>
 
-<!-- ======== INTRO TYPE ======== -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=F43F5E&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Salman+Khan!;AI+Engineer+%7C+ML+%26+DL;NLP+%7C+Computer+Vision+%7C+RAG;Shipping+real-world+AI%2C+not+just+demos" alt="Animated typing intro" />
-</div>
+<!-- RED LINE -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="92%" alt="red line"/></p>
 
----
+<!-- ======== SHORT TAGLINE ======== -->
+<h3 align="center" style="margin:0;">
+  <span style="color:#F43F5E;">AI Engineer</span> &nbsp;|&nbsp; <span style="color:#F43F5E;">ML &amp; DL</span> &nbsp;|&nbsp; <span style="color:#F43F5E;">NLP · CV · RAG</span>
+</h3>
+
+<!-- RED LINE -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="92%" alt="red line"/></p>
 
 ## 🌌 About Me
-- 🎓 Final-year **BS Artificial Intelligence** student @ NUML, Islamabad  
+<!-- RED UNDERLINE -->
+<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="120" alt="red line"/></p>
+
+- 🎓 Final-year **BS Artificial Intelligence** @ NUML, Islamabad  
 - 🧠 Passionate about **AI, Deep Learning, and Generative Models**  
 - 💻 Skilled in **Python, PyTorch, TensorFlow, FastAPI, Docker, SQL/NoSQL**  
-- 🚀 Building **production-grade AI solutions**  
-- ✨ Motto: _Build passionately. Show outcomes. Level up consistently._  
-
----
+- 🚀 Shipping **production-grade AI** (not just demos)  
+- ✨ Motto: _Build passionately. Show outcomes. Level up consistently._
 
 ## ⚡ Tech Stack
+<!-- RED UNDERLINE -->
+<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="120" alt="red line"/></p>
+
 <table>
-  <!-- LANGUAGES -->
   <tr>
     <th align="left" width="190">🧑‍💻 Languages</th>
     <td>
@@ -51,7 +59,6 @@
     </td>
   </tr>
 
-  <!-- AI / ML -->
   <tr>
     <th align="left">🤖 AI / ML</th>
     <td>
@@ -66,7 +73,6 @@
     </td>
   </tr>
 
-  <!-- TOOLS -->
   <tr>
     <th align="left">🛠️ Tools & Platforms</th>
     <td>
@@ -81,11 +87,11 @@
   </tr>
 </table>
 
----
-
 ## 🚀 Featured Projects
+<!-- RED UNDERLINE -->
+<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="160" alt="red line"/></p>
+
 <p align="center">
-  <!-- Your exact repos -->
   <a href="https://github.com/S4lmankhan/NeuroAssistAiModel" title="NeuroAssistAiModel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=NeuroAssistAiModel&theme=radical&hide_border=true&title_color=E11D48&icon_color=F43F5E" alt="Pinned: NeuroAssistAiModel"/>
   </a>
@@ -94,12 +100,13 @@
   </a>
 </p>
 <p align="center">
-  <sub>Folder you mentioned: <a href="https://github.com/S4lmankhan/Python-Projects/tree/main/Projects"><b>/Python-Projects/Projects</b></a></sub>
+  <sub>Direct folder: <a href="https://github.com/S4lmankhan/Python-Projects/tree/main/Projects"><b>/Python-Projects/Projects</b></a></sub>
 </p>
 
----
-
 ## 📊 GitHub Stats
+<!-- RED UNDERLINE -->
+<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="150" alt="red line"/></p>
+
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=S4lmankhan&show_icons=true&theme=radical&title_color=E11D48&icon_color=F43F5E&hide_border=true&rank_icon=github&cache_seconds=21600" height="170" alt="GitHub statistics"/>
@@ -115,11 +122,11 @@
   </a>
 </p>
 
----
-
 ## 📫 Contact Me
+<!-- RED UNDERLINE -->
+<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="160" alt="red line"/></p>
+
 <div align="center">
-  <b style="color:#F43F5E;">Let’s Connect & Build Together 🚀</b><br/>
   <a href="mailto:codewithsalty@gmail.com" title="Email Salman"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/s4lmankhan/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"/></a>
   <a href="https://github.com/S4lmankhan" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/></a>
