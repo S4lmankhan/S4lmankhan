@@ -3,9 +3,6 @@
   <span style="display:inline-block; font-weight:900; color:#F43F5E;">SALMAN</span>
   <span style="display:inline-block; font-weight:900; color:#E11D48;">KHAN</span>
 </h1>
-<p align="center" style="margin-top:6px;">
-  <span style="color:#FCA5A5;">AI Engineer • ML & DL • NLP • CV • RAG • MLOps-lite</span>
-</p>
 
 <!-- ======== HERO ======== -->
 <div align="center">
