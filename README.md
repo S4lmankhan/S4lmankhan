@@ -1,3 +1,12 @@
+<!-- ======== NAME ======== -->
+<h1 align="center" style="margin: 0; padding: 0; letter-spacing: 4px;">
+  <span style="display:inline-block; font-weight:900; color:#F43F5E;">SALMAN</span>
+  <span style="display:inline-block; font-weight:900; color:#E11D48;">KHAN</span>
+</h1>
+<p align="center" style="margin-top:6px;">
+  <span style="color:#FCA5A5;">AI Engineer • ML & DL • NLP • CV • RAG • MLOps-lite</span>
+</p>
+
 <!-- ======== HERO ======== -->
 <div align="center">
   <img src="https://i.ibb.co/yk1Rb3z/futuristic-coding.gif" width="100%" alt="Futuristic banner with code animation"/>
@@ -19,14 +28,14 @@
   </a>
 </p>
 
----
-
 <!-- ======== INTRO TYPE ======== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=800&color=F43F5E&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Salman+Khan!;AI+Engineer+%7C+ML+%26+DL;NLP+%7C+Computer+Vision+%7C+RAG;Shipping+real-world+AI%2C+not+just+demos" alt="Animated typing intro" />
 </div>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48&section=footer" width="90%" alt="divider"/>
+</p>
 
 ## 🌌 About Me
 - 🎓 Final-year **BS Artificial Intelligence** student @ NUML, Islamabad  
@@ -89,8 +98,12 @@
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48&section=footer" width="100%" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48&section=footer" width="90%" alt="divider"/>
 </p>
+
+## 🔭 Now Building
+- **NeuroAssistAI** — 🧠 RAG assistant with retrieval pipelines & eval.  
+- **FitFusion** — 💪 AI-driven fitness planning with model-backed insights.  
 
 ---
 
