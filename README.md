@@ -1,51 +1,55 @@
-<!-- ======== WAVE HEADER (RED) ======== -->
+<!-- ======== NAME ======== -->
+<h1 align="center" style="margin: 0; padding: 0; letter-spacing: 4px;">
+  <span style="display:inline-block; font-weight:900; color:#F43F5E;">SALMAN</span>
+  <span style="display:inline-block; font-weight:900; color:#E11D48;">KHAN</span>
+</h1>
+<p align="center" style="margin-top:6px;">
+  <span style="color:#FCA5A5;">AI Engineer • ML & DL • NLP • CV • RAG • MLOps-lite</span>
+</p>
+
+<!-- ======== HERO ======== -->
 <div align="center">
-  <!-- Capsule Render banner (works on GitHub) -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=E11D48&fontColor=ffffff&text=SALMAN%20KHAN&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20ML%20%26%20DL%20%E2%80%A2%20NLP%20%E2%80%A2%20CV%20%E2%80%A2%20RAG&descAlign=50&descAlignY=70&animation=fadeIn"
-    alt="SALMAN KHAN red wave header"
-  />
+  <img src="https://i.ibb.co/yk1Rb3z/futuristic-coding.gif" width="100%" alt="Futuristic banner with code animation"/>
 </div>
 
-<!-- ======== BADGES (RED) ======== -->
+<!-- ======== BADGES (RED THEME) ======== -->
 <p align="center">
   <a href="https://github.com/S4lmankhan" title="Profile views">
-    <img src="https://komarev.com/ghpvc/?username=S4lmankhan&label=PROFILE%20VIEWS&color=E11D48&style=for-the-badge" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=S4lmankhan&label=Profile%20Views&color=E11D48&style=for-the-badge" alt="Profile views"/>
   </a>
   <a href="https://github.com/S4lmankhan?tab=followers" title="Followers">
-    <img src="https://img.shields.io/github/followers/S4lmankhan?label=FOLLOWERS&color=E11D48&style=for-the-badge" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/S4lmankhan?label=Followers&color=E11D48&style=for-the-badge" alt="Followers"/>
   </a>
   <a href="https://github.com/S4lmankhan?tab=stars" title="Stars">
-    <img src="https://img.shields.io/github/stars/S4lmankhan?label=STARS&color=E11D48&style=for-the-badge" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/S4lmankhan?label=Stars&color=E11D48&style=for-the-badge" alt="Stars"/>
+  </a>
+  <a href="https://github.com/S4lmankhan/portfoliowebsite" title="Commit activity on portfolio repo">
+    <img src="https://img.shields.io/github/commit-activity/m/S4lmankhan/portfoliowebsite?label=Commits&color=E11D48&style=for-the-badge" alt="Commit activity"/>
   </a>
 </p>
 
-<!-- RED LINE -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="92%" alt="red line"/></p>
+<!-- ======== INTRO TYPE ======== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=3000&pause=800&color=F43F5E&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Salman+Khan!;AI+Engineer+%7C+ML+%26+DL;NLP+%7C+Computer+Vision+%7C+RAG;Shipping+real-world+AI%2C+not+just+demos" alt="Animated typing intro" />
+</div>
 
-<!-- ======== SHORT TAGLINE ======== -->
-<h3 align="center" style="margin:0;">
-  <span style="color:#F43F5E;">AI Engineer</span> &nbsp;|&nbsp; <span style="color:#F43F5E;">ML &amp; DL</span> &nbsp;|&nbsp; <span style="color:#F43F5E;">NLP · CV · RAG</span>
-</h3>
-
-<!-- RED LINE -->
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="92%" alt="red line"/></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48&section=footer" width="90%" alt="divider"/>
+</p>
 
 ## 🌌 About Me
-<!-- RED UNDERLINE -->
-<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="120" alt="red line"/></p>
-
-- 🎓 Final-year **BS Artificial Intelligence** @ NUML, Islamabad  
+- 🎓 Final-year **BS Artificial Intelligence** student @ NUML, Islamabad  
 - 🧠 Passionate about **AI, Deep Learning, and Generative Models**  
 - 💻 Skilled in **Python, PyTorch, TensorFlow, FastAPI, Docker, SQL/NoSQL**  
-- 🚀 Shipping **production-grade AI** (not just demos)  
-- ✨ Motto: _Build passionately. Show outcomes. Level up consistently._
+- 🚀 Building **production-grade AI solutions** (not just demos)  
+- ✨ Motto: _Build passionately. Show outcomes. Level up consistently._  
+
+---
 
 ## ⚡ Tech Stack
-<!-- RED UNDERLINE -->
-<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="120" alt="red line"/></p>
 
 <table>
+  <!-- LANGUAGES -->
   <tr>
     <th align="left" width="190">🧑‍💻 Languages</th>
     <td>
@@ -59,6 +63,9 @@
     </td>
   </tr>
 
+  <tr><td colspan="2"><img src="https://img.shields.io/badge/-_-00000000?style=flat&labelColor=0B0A0C&color=0B0A0C"></td></tr>
+
+  <!-- AI / ML -->
   <tr>
     <th align="left">🤖 AI / ML</th>
     <td>
@@ -73,6 +80,9 @@
     </td>
   </tr>
 
+  <tr><td colspan="2"><img src="https://img.shields.io/badge/-_-00000000?style=flat&labelColor=0B0A0C&color=0B0A0C"></td></tr>
+
+  <!-- TOOLS -->
   <tr>
     <th align="left">🛠️ Tools & Platforms</th>
     <td>
@@ -87,26 +97,17 @@
   </tr>
 </table>
 
-## 🚀 Featured Projects
-<!-- RED UNDERLINE -->
-<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="160" alt="red line"/></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48&section=footer" width="90%" alt="divider"/>
+</p>
 
-<p align="center">
-  <a href="https://github.com/S4lmankhan/NeuroAssistAiModel" title="NeuroAssistAiModel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=NeuroAssistAiModel&theme=radical&hide_border=true&title_color=E11D48&icon_color=F43F5E" alt="Pinned: NeuroAssistAiModel"/>
-  </a>
-  <a href="https://github.com/S4lmankhan/Python-Projects" title="Python-Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=Python-Projects&theme=radical&hide_border=true&title_color=E11D48&icon_color=F43F5E" alt="Pinned: Python-Projects"/>
-  </a>
-</p>
-<p align="center">
-  <sub>Direct folder: <a href="https://github.com/S4lmankhan/Python-Projects/tree/main/Projects"><b>/Python-Projects/Projects</b></a></sub>
-</p>
+## 🔭 Now Building
+- **NeuroAssistAI** — 🧠 RAG assistant with retrieval pipelines & eval.  
+- **FitFusion** — 💪 AI-driven fitness planning with model-backed insights.  
+
+---
 
 ## 📊 GitHub Stats
-<!-- RED UNDERLINE -->
-<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="150" alt="red line"/></p>
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Readme Stats">
     <img src="https://github-readme-stats.vercel.app/api?username=S4lmankhan&show_icons=true&theme=radical&title_color=E11D48&icon_color=F43F5E&hide_border=true&rank_icon=github&cache_seconds=21600" height="170" alt="GitHub statistics"/>
@@ -122,19 +123,56 @@
   </a>
 </p>
 
-## 📫 Contact Me
-<!-- RED UNDERLINE -->
-<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E11D48" width="160" alt="red line"/></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Profile trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=onestar&row=1&column=6&margin-w=8&margin-h=8&no-frame=true&title_color=E11D48" alt="GitHub profile trophies"/>
+  </a>
+</p>
 
+---
+
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/S4lmankhan/NeuroAssistAI" title="NeuroAssistAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=NeuroAssistAI&theme=radical&hide_border=true&title_color=E11D48&icon_color=F43F5E" alt="Pinned: NeuroAssistAI"/>
+  </a>
+  <a href="https://github.com/S4lmankhan/FitFusion" title="FitFusion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=S4lmankhan&repo=FitFusion&theme=radical&hide_border=true&title_color=E11D48&icon_color=F43F5E" alt="Pinned: FitFusion"/>
+  </a>
+</p>
+
+---
+
+## 🔥 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S4lmankhan&theme=rogue&bg_color=0B0A0C&color=FCA5A5&line=EF4444&point=F43F5E&area=true&hide_border=true" alt="Contribution activity graph (red aesthetic)"/>
+</p>
+
+---
+
+## ✨ Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Keep%20it%20simple%2C%20ship%20it%20fast.&author=Salman%20Khan&bg_color=0B0A0C&text_color=FCA5A5" alt="Developer quote on a dark red backdrop"/>
+</p>
+
+---
+
+## 📫 Contact Me
 <div align="center">
-  <a href="mailto:codewithsalty@gmail.com" title="Email Salman"><img src="https://skillicons.dev/icons?i=gmail" width="44" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/s4lmankhan/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="44" alt="LinkedIn"/></a>
-  <a href="https://github.com/S4lmankhan" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/></a>
-  <a href="https://instagram.com/saltyy_fx" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="44" alt="Instagram"/></a>
-  <a href="https://x.com/codewithsalty" title="X (Twitter)"><img src="https://skillicons.dev/icons?i=twitter" width="44" alt="X (Twitter)"/></a>
+  <b style="color:#F43F5E;">Let’s Connect & Build Together 🚀</b><br/>
+  <a href="mailto:codewithsalty@gmail.com" title="Email Salman"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/s4lmankhan/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn"/></a>
+  <a href="https://github.com/S4lmankhan" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
+  <a href="https://instagram.com/saltyy_fx" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram"/></a>
+  <a href="https://x.com/codewithsalty" title="X (Twitter)"><img src="https://skillicons.dev/icons?i=twitter" width="48" alt="X (Twitter)"/></a>
 </div>
 
-<!-- FOOTER WAVE -->
+---
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E11D48&section=footer" width="100%" alt="Wavy footer in red"/>
+  <i style="color:#FCA5A5;">"AI isn't the future – it's the present. Work on it. Own it. Ship it."</i>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=E11D48&section=footer" width="100%" alt="Wavy footer in red"/>
+</div>
