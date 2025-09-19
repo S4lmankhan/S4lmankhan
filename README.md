@@ -1,4 +1,8 @@
 <!-- ======== HERO ======== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=200&section=header&text=Hina%20Tanveer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
 <div align="center">
   <img src="https://i.ibb.co/yk1Rb3z/futuristic-coding.gif" width="100%" alt="Futuristic banner with code animation"/>
 </div>
