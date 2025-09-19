@@ -4,14 +4,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Salman%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=A61B2B&v=12"
     alt="Salman Khan"
   />
-</p>
-
-<!-- ======== OPTIONAL: PFP SHOWCASE (shown inside README) ========
-Place your edited/circular avatar at: /assets/pfp_crimson.png in this repo.
-If you don’t have one yet, upload your existing PFP there; circle-crop looks best. -->
-<p align="center">
-  <img src="assets/pfp_crimson.png?raw=1" width="220" alt="Salman Khan avatar"/>
-</p>
 
 <!-- ======== BADGES (CRIMSON THEME) ======== -->
 <p align="center">
