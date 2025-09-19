@@ -1,7 +1,7 @@
 <!-- ======== TOP WAVE HEADER ======== -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=200&section=header&text=Salman%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&v=3"
+    src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=200&section=header&text=Salman%20Khan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&v=5"
     alt="Salman Khan"
   />
 </p>
@@ -24,7 +24,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="92%" alt="red line"/>
 </p>
 
-<!-- ======== TYPING LINE (no 'Hey, I'm Salman Khan') ======== -->
+<!-- ======== TYPING LINE (no 'Hey, I’m Salman Khan') ======== -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=F43F5E&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+ML+%26+DL;NLP+%7C+Computer+Vision+%7C+RAG;Shipping+real-world+AI%2C+not+just+demos" alt="Animated typing lines" />
 </div>
@@ -43,65 +43,55 @@
 - 🚀 Shipping **production-grade AI**  
 - ✨ Motto: _Build passionately. Show outcomes. Level up consistently._
 
-## ⚡ Tech Stack
-<p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="120" alt="red line"/></p>
+## 🚀 Tech Arsenal
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="80%" alt="red line"/></p>
 
-<!-- 100% RED BADGES FOR UNIFORM LOOK -->
-<!-- LANGUAGES -->
-<p>
-  <b>🧑‍💻 Languages</b><br/>
+<!-- CENTERED STACK -->
+<div align="center">
+
+<h4 style="margin:8px 0 6px 0;">
+  <span style="color:#E63946;">•</span> <span>Languages</span>
+</h4>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-E63946?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-E63946?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-E63946?style=for-the-badge&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-E63946?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-E63946?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E63946?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-E63946?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-E63946?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-E63946?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-<!-- AI / ML -->
-<p>
-  <b>🤖 AI / ML</b><br/>
-  <img src="https://img.shields.io/badge/PyTorch-E63946?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-E63946?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-E63946?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-E63946?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <br/>
-  <sub>
-    <code style="background:#151317;color:#E63946;border-radius:8px;padding:4px 8px;margin-right:6px;">Training</code>
-    <code style="background:#151317;color:#E63946;border-radius:8px;padding:4px 8px;margin-right:6px;">Inference</code>
-    <code style="background:#151317;color:#E63946;border-radius:8px;padding:4px 8px;margin-right:6px;">RAG</code>
-    <code style="background:#151317;color:#E63946;border-radius:8px;padding:4px 8px;">Evaluation</code>
-  </sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00000000" width="1" alt="" />
 
-<!-- TOOLS -->
-<p>
-  <b>🛠️ Tools & Platforms</b><br/>
-  <img src="https://img.shields.io/badge/Git-E63946?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-E63946?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-E63946?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-E63946?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-E63946?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-E63946?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-E63946?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-E63946?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-E63946?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-E63946?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-E63946?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-E63946?style=for-the-badge&logo=postman&logoColor=white" />
-  <br/>
-  <sub>
-    <code style="background:#151317;color:#E63946;border-radius:8px;padding:4px 8px;margin-right:6px;">CI/CD</code>
-    <code style="background:#151317;color:#E63946;border-radius:8px;padding:4px 8px;margin-right:6px;">Containers</code>
-    <code style="background:#151317;color:#E63946;border-radius:8px;padding:4px 8px;">Cloud Deploy</code>
-  </sub>
-</p>
+<h4 style="margin:8px 0 6px 0;">
+  <span style="color:#E63946;">•</span> <span>Frameworks & Libraries</span>
+</h4>
 
-<!-- RED DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="92%" alt="red line"/>
+  <img src="https://img.shields.io/badge/TensorFlow-E63946?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-E63946?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-E63946?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-E63946?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-E63946?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00000000" width="1" alt="" />
+
+<h4 style="margin:8px 0 6px 0;">
+  <span style="color:#E63946;">•</span> <span>Tools & Platforms</span>
+</h4>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-E63946?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-E63946?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E63946?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-E63946?style=for-the-badge&logo=powerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-E63946?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+</div>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="80%" alt="red line"/></p>
 
 ## 🚀 Featured Projects
 <p align="left"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="160" alt="red line"/></p>
@@ -118,7 +108,6 @@
   <sub>Direct folder: <a href="https://github.com/S4lmankhan/Python-Projects/tree/main/Projects"><b>/Python-Projects/Projects</b></a></sub>
 </p>
 
-<!-- RED DIVIDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="92%" alt="red line"/>
 </p>
@@ -131,7 +120,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=S4lmankhan&theme=radical&ring=E63946&fire=E63946&currStreakLabel=E63946&background=0D1117&dates=FFFFFF" height="160" />
 </p>
 
-<!-- RED DIVIDER -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=radical&no-frame=true&margin-w=15&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S4lmankhan&bg_color=0D1117&color=E63946&line=E63946&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=E63946" width="92%" alt="red line"/>
 </p>
