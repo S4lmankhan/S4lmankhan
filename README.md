@@ -221,6 +221,11 @@ Advanced image generation platform using Stability AI with intuitive Python and 
 
 <br>
 
+<!-- Random Dev Quote with Red Theme -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ship%20production%20AI%2C%20not%20just%20demos&author=Salman%20Khan&border=true&borderColor=DC143C" />
+</p>
+
 ## 📫 Connect With Me
 
 <p align="center">
@@ -258,6 +263,5 @@ Advanced image generation platform using Stability AI with intuitive Python and 
 
 <div align="center">
   
-**💬 Languages:** English (Professional) • Urdu (Native) • Pashto (Native) • Japanese (Limited) • Arabic (Elementary) • German (Elementary)
 
 </div>
