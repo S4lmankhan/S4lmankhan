@@ -252,11 +252,6 @@ Advanced image generation platform using Stability AI with intuitive Python and 
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:DC143C,100:8B0000" alt="Footer"/>
 </div>
 
-<!-- Random Dev Quote with Red Theme -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ship%20production%20AI%2C%20not%20just%20demos&author=Salman%20Khan&border=true&borderColor=DC143C" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🚀;Open+to+collaboration+and+opportunities!+💡" />
 </p>
