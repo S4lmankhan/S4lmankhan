@@ -22,7 +22,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+Production-Grade+AI+Systems;NLP+%7C+Computer+Vision+%7C+RAG;Shipping+Real+Impact%2C+Not+Just+Demos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=700&lines=Full+Stack+AI+Engineer+%7C+Certified+Ethical+Hacker;Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+NLP;Shipping+Real+Impact%2C+Not+Just+Demos" alt="Typing SVG" />
 </p>
 
 <br>
@@ -32,7 +32,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/S4lmankhan/S4lmankhan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/S4lmankhan/S4lmankhan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/S4lmankhan/S4lmankhan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/S4lmankhan/S4lmankhan/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <br>
@@ -42,46 +42,59 @@
 ```python
 class SalmanKhan:
     def __init__(self):
-        self.role = "AI Engineer"
+        self.role = "Full Stack AI Engineer"
         self.education = "BS Artificial Intelligence @ NUML"
         self.location = "Islamabad, Pakistan"
-        self.focus = ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"]
+        self.expertise = ["LLMs", "RAG", "AI Agents", "NLP", "Computer Vision"]
+        self.certifications = ["CEH", "CPEE", "Python Full Stack"]
         
     def current_work(self):
         return {
-            "learning": ["Advanced RAG", "LLM Fine-tuning", "MLOps"],
+            "learning": ["Advanced RAG", "MCP Integration", "LLM Fine-tuning"],
             "building": ["AI Agents", "Voice AI", "Multi-modal Systems"],
+            "exploring": ["Blockchain", "Cryptography", "Decentralized AI"],
             "goal": "Ship production AI that creates real impact"
         }
+    
+    def previous_experience(self):
+        return [
+            "AI Engineer @ DevRolin",
+            "ML Engineer @ Elevvo Pathways", 
+            "Python Developer @ CosmiCode",
+            "Graphic Designer @ MixDia UK"
+        ]
 ```
 
 ### 🎯 What I'm Currently Working On
 
 - 🔭 Building **production-grade AI agents** and **RAG systems**
-- 🌱 Learning **advanced LLM architectures** and **prompt engineering**
-- 💡 Exploring **multi-modal AI** and **real-time voice systems**
-- 🚀 Deploying scalable ML systems with **FastAPI** and **Docker**
+- 🌱 Learning **MCP integration** and **advanced LLM architectures**
+- 💡 Exploring **blockchain**, **cryptography**, and **decentralized technologies**
+- 🚀 Deploying scalable ML systems with **FastAPI**, **Docker**, and **AWS**
 - 🤝 Open to collaborating on innovative **AI/ML projects**
-
-### 💪 Core Competencies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-DC143C?style=for-the-badge&logo=tensorflow" alt="ML"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Advanced-DC143C?style=for-the-badge&logo=pytorch" alt="DL"/>
-  <img src="https://img.shields.io/badge/NLP-Proficient-DC143C?style=for-the-badge&logo=openai" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Advanced-DC143C?style=for-the-badge&logo=opencv" alt="CV"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-Production-DC143C?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Docker-Containerization-DC143C?style=for-the-badge&logo=docker" alt="Docker"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-DC143C?style=for-the-badge&logo=amazonaws" alt="AWS"/>
-  <img src="https://img.shields.io/badge/RAG%20Systems-Expert-DC143C?style=for-the-badge&logo=langchain" alt="RAG"/>
-</p>
 
 <br>
 
-## 🏆 Achievements & Certifications
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.com/S4lmankhan/S4lmankhan/blob/main/.github/assets/quickdraw.png?raw=true" width="80" alt="Quickdraw"/>
+  <img src="https://github.com/S4lmankhan/S4lmankhan/blob/main/.github/assets/pull-shark.png?raw=true" width="80" alt="Pull Shark"/>
+  <img src="https://github.com/S4lmankhan/S4lmankhan/blob/main/.github/assets/yolo.png?raw=true" width="80" alt="YOLO"/>
+  <img src="https://github.com/S4lmankhan/S4lmankhan/blob/main/.github/assets/starstruck.png?raw=true" width="80" alt="Starstruck"/>
+</p>
+
+<details>
+<summary><b>🎖️ View All Achievements</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+</p>
+</details>
+
+<br>
+
+## 🎓 Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/🛡️%20CEH-Certified%20Ethical%20Hacker-DC143C?style=for-the-badge&logo=hackthebox" alt="CEH"/>
@@ -93,6 +106,24 @@ class SalmanKhan:
   <img src="https://img.shields.io/badge/🎮%20Game%20Design-HEC%20x%20Tencent-DC143C?style=for-the-badge&logo=unity" alt="Game Design"/>
   <img src="https://img.shields.io/badge/📊%20Project%20Management-LinkedIn%20Learning-DC143C?style=for-the-badge&logo=linkedin" alt="PM"/>
   <img src="https://img.shields.io/badge/🔐%20Cybersecurity-Cisco%20Certified-DC143C?style=for-the-badge&logo=cisco" alt="Cisco"/>
+</p>
+
+<br>
+
+## 💪 Core Competencies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-DC143C?style=for-the-badge&logo=tensorflow" alt="ML"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Advanced-DC143C?style=for-the-badge&logo=pytorch" alt="DL"/>
+  <img src="https://img.shields.io/badge/NLP-Proficient-DC143C?style=for-the-badge&logo=openai" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Advanced-DC143C?style=for-the-badge&logo=opencv" alt="CV"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-Production-DC143C?style=for-the-badge&logo=openai" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-Expert-DC143C?style=for-the-badge&logo=langchain" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-Advanced-DC143C?style=for-the-badge&logo=robot" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/FastAPI-Production-DC143C?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
 </p>
 
 <br>
@@ -131,6 +162,12 @@ class SalmanKhan:
 ![Streamlit](https://img.shields.io/badge/Streamlit-DC143C?style=flat-square&logo=streamlit&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-DC143C?style=flat-square&logo=fastapi&logoColor=white)
 
+**Frontend**  
+![React](https://img.shields.io/badge/React-DC143C?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-DC143C?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-DC143C?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-DC143C?style=flat-square&logo=css3&logoColor=white)
+
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DC143C?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-DC143C?style=flat-square&logo=mongodb&logoColor=white)
@@ -149,10 +186,10 @@ class SalmanKhan:
 **Tools & Platforms**  
 ![VS Code](https://img.shields.io/badge/VS_Code-DC143C?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-DC143C?style=flat-square&logo=cursor&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-DC143C?style=flat-square&logo=safari&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-DC143C?style=flat-square&logo=kaggle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-DC143C?style=flat-square&logo=postman&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-DC143C?style=flat-square&logo=n8n&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-DC143C?style=flat-square&logo=selenium&logoColor=white)
 
 <br>
 
@@ -160,23 +197,27 @@ class SalmanKhan:
 
 ### 🏆 **Cyber4ce AI** | *Selected in Uraan Pakistan Techathon*
 Multi-modal AI platform for cyber threat analysis, video surveillance, and border security  
-`PyTorch` `OpenCV` `FastAPI` `Computer Vision`
+`PyTorch` `OpenCV` `FastAPI` `Computer Vision` `Real-time Detection`
 
-### 📚 **Taleem AI** | *RAG-Based Learning Platform*
-AI educational platform with voice-first bilingual interface and gamified learning  
-`Langchain` `RAG` `Pinecone` `Streamlit`
+### 📚 **Taleem AI** | *RAG-Based Student Learning Platform*
+AI educational platform with voice-first bilingual interface, curriculum-based RAG, and gamified learning  
+`Langchain` `RAG` `Pinecone` `Streamlit` `Voice AI`
 
 ### 📞 **CallRolin** | *Real-time Voice AI Agent*
-Production-grade voice-to-voice AI agent for customer support at scale  
-`Whisper` `TTS` `FastAPI` `WebSockets`
+Production-grade voice-to-voice AI agent for customer support handling inbound calls at scale  
+`Whisper` `TTS` `FastAPI` `WebSockets` `Multi-lingual`
 
 ### 🧠 **Brain Tumor Classification** | *Medical AI System*
-ANN-CNN model for classifying brain tumors from MRI scans (99%+ accuracy)  
-`TensorFlow` `Keras` `CNN` `Medical Imaging`
+ANN-CNN model for classifying brain tumors (glioma, meningioma, pituitary) from MRI scans with 99%+ accuracy  
+`TensorFlow` `Keras` `CNN` `Medical Imaging` `Deep Learning`
 
 ### 🏥 **MedGuardian AI** | *Healthcare Assistant*
-Comprehensive medical AI platform with symptom analysis and patient management  
-`Langchain` `RAG` `FastAPI` `MongoDB`
+Comprehensive medical AI platform with symptom analysis, diagnosis support, and patient management  
+`Langchain` `RAG` `FastAPI` `MongoDB` `Multi-modal`
+
+### 🎨 **Pixel AI** | *AI Image Generator*
+Advanced image generation platform using Stability AI with intuitive Python and Figma frontend  
+`Stable Diffusion` `Python` `Figma` `Image Generation`
 
 <br>
 
@@ -196,18 +237,12 @@ Comprehensive medical AI platform with symptom analysis and patient management
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4lmankhan&show_icons=true&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4lmankhan&layout=compact&theme=dark&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4lmankhan&show_icons=true&theme=dark&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4lmankhan&layout=compact&theme=dark&bg_color=0d1117&title_color=DC143C&text_color=c9d1d9&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=S4lmankhan&theme=dark&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&hide_border=true" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
 </p>
 
 ### 📈 Contribution Graph
@@ -216,7 +251,7 @@ Comprehensive medical AI platform with symptom analysis and patient management
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=S4lmankhan&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true&area_color=DC143C" />
 </p>
 
-### 🎯 GitHub Metrics
+### 🎯 Detailed Metrics
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S4lmankhan&theme=github_dark" />
@@ -225,11 +260,6 @@ Comprehensive medical AI platform with symptom analysis and patient management
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S4lmankhan&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S4lmankhan&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S4lmankhan&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S4lmankhan&theme=github_dark" />
 </p>
 
 <br>
@@ -249,6 +279,9 @@ Comprehensive medical AI platform with symptom analysis and patient management
   <a href="https://codewithsalty.me">
     <img src="https://img.shields.io/badge/Portfolio-DC143C?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
+  <a href="https://kaggle.com/s4lmankhan">
+    <img src="https://img.shields.io/badge/Kaggle-DC143C?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
 </p>
 
 <br>
@@ -257,14 +290,17 @@ Comprehensive medical AI platform with symptom analysis and patient management
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:DC143C,100:8B0000" alt="Footer"/>
 </div>
 
+<!-- Random Dev Quote with Red Theme -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🚀;Open+to+collaboration+and+opportunities!" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ship%20production%20AI%2C%20not%20just%20demos&author=Salman%20Khan&border=true&borderColor=DC143C" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🚀;Open+to+collaboration+and+opportunities!+💡" />
 </p>
 
 <div align="center">
   
-### 💭 Quote of the Day
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=DC143C)
+**💬 Languages:** English (Professional) • Urdu (Native) • Pashto (Native) • Japanese (Limited) • Arabic (Elementary) • German (Elementary)
 
 </div>
