@@ -85,40 +85,6 @@ class SalmanKhan:
 
 <br>
 
-## 🎓 Certifications
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🛡️%20CEH-Certified%20Ethical%20Hacker-DC143C?style=for-the-badge&logo=hackthebox" alt="CEH"/>
-  <img src="https://img.shields.io/badge/🤖%20CPEE-Prompt%20Engineering%20Expert-DC143C?style=for-the-badge&logo=openai" alt="CPEE"/>
-  <img src="https://img.shields.io/badge/🐍%20Python-Full%20Stack%20Developer-DC143C?style=for-the-badge&logo=python" alt="Python Full Stack"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🎮%20Game%20Design-HEC%20x%20Tencent-DC143C?style=for-the-badge&logo=unity" alt="Game Design"/>
-  <img src="https://img.shields.io/badge/📊%20Project%20Management-LinkedIn%20Learning-DC143C?style=for-the-badge&logo=linkedin" alt="PM"/>
-  <img src="https://img.shields.io/badge/🔐%20Cybersecurity-Cisco%20Certified-DC143C?style=for-the-badge&logo=cisco" alt="Cisco"/>
-</p>
-
-<br>
-
-## 💪 Core Competencies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-DC143C?style=for-the-badge&logo=tensorflow" alt="ML"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-Advanced-DC143C?style=for-the-badge&logo=pytorch" alt="DL"/>
-  <img src="https://img.shields.io/badge/NLP-Proficient-DC143C?style=for-the-badge&logo=openai" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-Advanced-DC143C?style=for-the-badge&logo=opencv" alt="CV"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LLMs-Production-DC143C?style=for-the-badge&logo=openai" alt="LLMs"/>
-  <img src="https://img.shields.io/badge/RAG%20Systems-Expert-DC143C?style=for-the-badge&logo=langchain" alt="RAG"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-Advanced-DC143C?style=for-the-badge&logo=robot" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/FastAPI-Production-DC143C?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
-</p>
-
-<br>
-
 ## 🛠️ Tech Stack
 
 **Languages**  
