@@ -8,6 +8,16 @@
   <img src="https://komarev.com/ghpvc/?username=S4lmankhan&label=Profile%20Views&color=DC143C&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/S4lmankhan?label=Followers&color=DC143C&style=flat-square&logo=github" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/S4lmankhan?label=Stars&color=DC143C&style=flat-square&logo=github" alt="Stars"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-DC143C?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-DC143C?style=flat-square" alt="Status"/>
+</p>
+
+<!-- Achievement Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆%20Techathon-Winner-DC143C?style=for-the-badge" alt="Techathon Winner"/>
+  <img src="https://img.shields.io/badge/🎓%20CGPA-3.56-DC143C?style=for-the-badge" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/💼%205%2B-Internships-DC143C?style=for-the-badge" alt="Internships"/>
+  <img src="https://img.shields.io/badge/🎯%206%2B-Certifications-DC143C?style=for-the-badge" alt="Certifications"/>
 </p>
 
 <!-- Typing Animation -->
@@ -52,6 +62,38 @@ class SalmanKhan:
 - 💡 Exploring **multi-modal AI** and **real-time voice systems**
 - 🚀 Deploying scalable ML systems with **FastAPI** and **Docker**
 - 🤝 Open to collaborating on innovative **AI/ML projects**
+
+### 💪 Core Competencies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Expert-DC143C?style=for-the-badge&logo=tensorflow" alt="ML"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-Advanced-DC143C?style=for-the-badge&logo=pytorch" alt="DL"/>
+  <img src="https://img.shields.io/badge/NLP-Proficient-DC143C?style=for-the-badge&logo=openai" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Advanced-DC143C?style=for-the-badge&logo=opencv" alt="CV"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-Production-DC143C?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-Containerization-DC143C?style=for-the-badge&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud-DC143C?style=for-the-badge&logo=amazonaws" alt="AWS"/>
+  <img src="https://img.shields.io/badge/RAG%20Systems-Expert-DC143C?style=for-the-badge&logo=langchain" alt="RAG"/>
+</p>
+
+<br>
+
+## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🛡️%20CEH-Certified%20Ethical%20Hacker-DC143C?style=for-the-badge&logo=hackthebox" alt="CEH"/>
+  <img src="https://img.shields.io/badge/🤖%20CPEE-Prompt%20Engineering%20Expert-DC143C?style=for-the-badge&logo=openai" alt="CPEE"/>
+  <img src="https://img.shields.io/badge/🐍%20Python-Full%20Stack%20Developer-DC143C?style=for-the-badge&logo=python" alt="Python Full Stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎮%20Game%20Design-HEC%20x%20Tencent-DC143C?style=for-the-badge&logo=unity" alt="Game Design"/>
+  <img src="https://img.shields.io/badge/📊%20Project%20Management-LinkedIn%20Learning-DC143C?style=for-the-badge&logo=linkedin" alt="PM"/>
+  <img src="https://img.shields.io/badge/🔐%20Cybersecurity-Cisco%20Certified-DC143C?style=for-the-badge&logo=cisco" alt="Cisco"/>
+</p>
 
 <br>
 
@@ -162,12 +204,32 @@ Comprehensive medical AI platform with symptom analysis and patient management
   <img src="https://github-readme-streak-stats.herokuapp.com?user=S4lmankhan&theme=dark&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&hide_border=true" />
 </p>
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+</p>
+
+### 📈 Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=S4lmankhan&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true&area_color=DC143C" />
 </p>
 
+### 🎯 GitHub Metrics
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=S4lmankhan&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=S4lmankhan&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=S4lmankhan&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=S4lmankhan&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=S4lmankhan&theme=github_dark" />
 </p>
 
 <br>
