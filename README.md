@@ -17,6 +17,14 @@
 
 <br>
 
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/S4lmankhan/S4lmankhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<br>
+
 ## 👨‍💻 About Me
 
 ```python
@@ -34,6 +42,14 @@ class SalmanKhan:
             "goal": "Ship production AI that creates real impact"
         }
 ```
+
+### 🎯 What I'm Currently Working On
+
+- 🔭 Building **production-grade AI agents** and **RAG systems**
+- 🌱 Learning **advanced LLM architectures** and **prompt engineering**
+- 💡 Exploring **multi-modal AI** and **real-time voice systems**
+- 🚀 Deploying scalable ML systems with **FastAPI** and **Docker**
+- 🤝 Open to collaborating on innovative **AI/ML projects**
 
 <br>
 
@@ -145,17 +161,11 @@ Comprehensive medical AI platform with symptom analysis and patient management
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S4lmankhan&bg_color=0d1117&color=DC143C&line=DC143C&point=c9d1d9&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S4lmankhan&bg_color=0d1117&color=DC143C&line=DC143C&point=DC143C&area=true&hide_border=true&area_color=DC143C" />
 </p>
 
-### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=S4lmankhan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&title=MultiLanguage,Commits,Repositories,Stars,Followers,PullRequest,Issues" />
-</p>
-
-### 🐍 Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/S4lmankhan/S4lmankhan/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br>
@@ -184,5 +194,13 @@ Comprehensive medical AI platform with symptom analysis and patient management
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=DC143C&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together!+🚀;Open+to+collaboration+and+opportunities!" />
 </p>
+
+<div align="center">
+  
+### 💭 Quote of the Day
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=DC143C)
+
+</div>
