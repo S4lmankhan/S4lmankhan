@@ -64,15 +64,6 @@ class SalmanKhan:
             "Graphic Designer @ MixDia UK"
         ]
 ```
-
-### 🎯 What I'm Currently Working On
-
-- 🔭 Building **production-grade AI agents** and **RAG systems**
-- 🌱 Learning **MCP integration** and **advanced LLM architectures**
-- 💡 Exploring **blockchain**, **cryptography**, and **decentralized technologies**
-- 🚀 Deploying scalable ML systems with **FastAPI**, **Docker**, and **AWS**
-- 🤝 Open to collaborating on innovative **AI/ML projects**
-
 <br>
 
 ## 🏆 GitHub Achievements
